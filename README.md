@@ -30,7 +30,7 @@
 ## Inheritance
    - one drived class(subclass) only can inherit one base class
 ## Interface vs. Abstract class
-   - There are cannot be new
+   - They are cannot be new
    - Interface no have implementation, just include method definition
    - Abstract class has implementations, and data fields
 ## Polymorphism
