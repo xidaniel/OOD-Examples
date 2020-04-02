@@ -33,6 +33,21 @@
    - They are cannot be new
    - Interface no have implementation, just include method definition
    - Abstract class has implementations, and data fields
+   
+         interface <interface_name>{  
+
+          // declare constant fields  
+          // declare methods that abstract   
+          // by default.  
+         }  
+   
+## extend
+   - only can extend one class
+   - class extends class
+   - interface extends class
+## implement
+   - could implement multiple interface
+   - class implements interface
 ## Polymorphism
    - Although same use class, each can find itself implementation
    - hashtable to implement this function
