@@ -41,11 +41,11 @@
           // by default.  
          }  
    
-## extend
+## Extend
    - only can extend one class
    - class extends class
    - interface extends class
-## implement
+## Implement
    - could implement multiple interface
    - class implements interface
 ## Polymorphism
