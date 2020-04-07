@@ -1,7 +1,14 @@
-# All start from use cases
-
-## What is differences between Class and Object?
-   - ....
+# Ace OOD problem step by step.
+   - Use cases(API)
+      - Input & Output
+   - Classes Relationships
+      - Association
+      - Aggreation/Composition
+      - Inhertiance
+   
+   
+-----------------------------------------------------------------------------
+## Basic concepts
 ## Final
    - Not be changed
    - Must be init when instantiate a object
