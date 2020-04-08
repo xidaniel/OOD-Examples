@@ -22,7 +22,7 @@
 |----------|-------|---------|----------|-------|
 |  Public  |  Y    |   Y     |   Y      |  Y    |
 | Potected |  Y    |   Y     |   Y      |  N    |
-| Modifier |  Y    |   Y     |   N      |  N    |
+| Default |  Y    |   Y     |   N      |  N    |
 | Private  |  Y    |   N     |   N      |  N    |
 
 ## Signature
