@@ -33,7 +33,7 @@
 ## Internal implementation(helper function): 
    - define private
 ## 'default' in Java
-   - private
+   - Can be accessed at class at package
 ## Inheritance
    - one drived class(subclass) only can inherit one base class
 ## Interface vs. Abstract class
