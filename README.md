@@ -13,7 +13,7 @@
    - Not be changed
    - Must be init when instantiate a object
 ## Static
-  - It belongs to class not object
+  - It belongs to class
   
 ## Encapsulation
   - access label
